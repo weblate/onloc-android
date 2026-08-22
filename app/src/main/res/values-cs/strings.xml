@@ -85,4 +85,26 @@
     <string name="service_ringer_start_notification_description">Zařízení zvoní</string>
     <string name="service_websocket_lock_screen_notification_title">Informace</string>
     <string name="device_actions_flash">Zasvítit</string>
+    <string name="login_enable_network_discovery">Povolit nalezení po síti</string>
+    <string name="login_continue_button">Pokračovat</string>
+    <string name="login_url_required">Je vyžadována URL adresa</string>
+    <string name="login_invalid_url">Neplatná URL adresa</string>
+    <string name="login_username_required">Je vyžadováno uživatelské jméno</string>
+    <string name="login_password_required">Je vyžadováno heslo</string>
+    <string name="login_selected_server">Vybraný server</string>
+    <string name="device_sheet_actions_title">Možnosti</string>
+    <string name="device_sheet_information_title">Informace</string>
+    <string name="settings_dialog_quality_label">Kvalita umístění</string>
+    <string name="quality_high_accuracy">Vysoký</string>
+    <string name="quality_balance_power_accuracy">Vyvážený</string>
+    <string name="quality_low_power">Nízký</string>
+    <string name="permissions_battery_optimization_header">Vypnout optimalizaci baterie</string>
+    <string name="permissions_battery_optimization_description">Optimalizace baterie může aplikaci zastavit, když pracuje na pozadí. Tím se zastaví hlavní funkce aplikace, jako je sledování polohy na pozadí a vzdálené ovládání.</string>
+    <string name="permissions_disable_button_label">Deaktivovat</string>
+    <string name="device_info_battery_level">Úroveň baterie</string>
+    <string name="device_info_charging">Nabíjení</string>
+    <string name="device_info_owner">Vlastník</string>
+    <string name="device_info_latest_location">Poslední umístění</string>
+    <string name="value_true">Pravda</string>
+    <string name="value_false">Nepravda</string>
 </resources>
